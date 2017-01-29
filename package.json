@@ -1,5 +1,5 @@
 {
-  "name": "sports-meet-hub",
+  "name": "sportsmeethub",
   "version": "0.2.5",
   "description": "A sample Node.js app using Express 4",
   "engines": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/heroku/node-js-getting-started.git"
+    "url": "git+https://github.com/vinothkumarrenganathan/sportsmeethub.git"
   },
   "keywords": [
     "node",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/heroku/node-js-getting-started/issues"
+    "url": "https://github.com/vinothkumarrenganathan/sportsmeethub/"
   },
-  "homepage": "https://github.com/heroku/node-js-getting-started#readme",
+  "homepage": "https://github.com/vinothkumarrenganathan/sportsmeethub/",
   "devDependencies": {},
   "author": "vinoth"
 }

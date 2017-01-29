@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "App focusing to boost the indian sports",
+  "description": "App for sports",
   "repository": "https://github.com/vinothkumarrenganathan/sportsmeethub",
   "logo": "",
   "keywords": ["node", "express", "static"],
